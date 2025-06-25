@@ -1,4 +1,5 @@
 Country Clustering Analysis using K-Means
+
 📋 Project Overview
 This project applies K-Means clustering to group countries based on socio-economic indicators using the Country-data.csv dataset. The analysis aims to identify distinct country profiles based on factors like child mortality, income, life expectancy, and GDP per capita.
 
